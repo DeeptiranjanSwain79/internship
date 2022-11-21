@@ -93,7 +93,7 @@ const Updater = () => {
                 </div>
 
                 <div>
-                    <label htmlFor="Name">Hobbies</label>
+                    <label htmlFor="Name">Total Sales</label>
                     <input className='m-1 rounded-4 p-2' placeholder='Hobbies' type="number" value={totalSales} onChange={e => setTotalSales(e.target.value)} />
                 </div>
 
