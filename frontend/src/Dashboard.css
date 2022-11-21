@@ -1,0 +1,16 @@
+.dashboard-container {
+    background-color: rgb(220, 240, 248);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading {
+    font: 800 1.8vmax "Tiro Tamil";
+}
+
+.dashboard {
+    width: 70vw;
+}
